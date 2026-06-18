@@ -1,50 +1,36 @@
-# 🛡️ Fraud Detection Project
+# 📚 Django Student Management System
 
 ## 📌 Project Overview
-A Machine Learning-based Fraud Detection System that identifies fraudulent transactions using data analysis and ML techniques.
+A simple **Student Management System** built using Django that helps manage student records such as adding, updating, viewing, and deleting student data.
 
 ---
 
-## 🎯 Objectives
-- Detect fraudulent transactions  
-- Reduce false positives  
-- Improve reliability  
-- Analyze suspicious patterns  
+## 🚀 Features
+- ➕ Add new students  
+- 📋 View all student records  
+- ✏️ Update student details  
+- ❌ Delete student records  
+- 🔍 Search functionality (if included)  
+- 🗃️ SQLite database integration  
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 - Python  
-- Machine Learning  
-- Pandas  
-- NumPy  
-- Scikit-learn  
+- Django  
+- HTML  
+- CSS  
+- Bootstrap (optional)  
+- SQLite  
 
 ---
 
 ## ⚙️ How It Works
-1. Load dataset  
-2. Preprocess data  
-3. Train model  
-4. Predict fraud/genuine transactions  
-5. Evaluate performance  
+1. Admin adds student data  
+2. Data is stored in SQLite database  
+3. Users can view/update/delete records  
+4. Django handles backend logic  
 
 ---
 
-## 📁 Project Files
-- ML model code  
-- Dataset  
-- Documentation  
-
----
-
-## 🚀 Future Improvements
-- Real-time fraud detection  
-- Better accuracy  
-- Web deployment  
-
----
-
-## 👨‍💻 Author
-**Ruchitha**  
-GitHub: https://github.com/ruchithakonayyagari-cloud
+## 📁 Project Structure
